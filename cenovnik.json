@@ -1,12 +1,16 @@
 {
-    "nacinplacanja": [
+    "cenocnik": [
         {
-            "id": 77,
-            "tip": "Placeno u celosti"
+            "id": 1,
+            "tip": "200"
         },
         {
-            "id": 78,
-            "tip": "Placeno 30%"
+            "id": 2,
+            "tip": "300"
+        },
+	{
+            "id": 4,
+            "tip": "500"
         }
 	]
 }
